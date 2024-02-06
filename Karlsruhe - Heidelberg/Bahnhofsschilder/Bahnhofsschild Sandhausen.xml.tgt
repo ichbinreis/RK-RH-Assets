@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">BlueprintEditor2.exe</Filename>
+			<Time d:type="cDeltaString">Sunday, May 28, 2023 20:14:17</Time>
+			<IntTime d:type="sUInt64">133297712573740529</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">CGE\Karlsruhe - Heidelberg\Bahnhofsschilder\Bahnhofsschild Sandhausen.xml</Filename>
+			<Time d:type="cDeltaString">Sunday, January 21, 2024 19:43:12</Time>
+			<IntTime d:type="sUInt64">133503361923668184</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Bahnhofsschilder\Bahnhofsschild Sandhausen.xml</Filename>
+			<Time d:type="cDeltaString">Sunday, January 21, 2024 19:19:18</Time>
+			<IntTime d:type="sUInt64">133503347586410465</IntTime>
+		</cFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Bahnhofsschilder\Bahnhofsschild Sandhausen.igs</Filename>
+			<Time d:type="cDeltaString">Sunday, January 21, 2024 19:42:11</Time>
+			<IntTime d:type="sUInt64">133503361311064583</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

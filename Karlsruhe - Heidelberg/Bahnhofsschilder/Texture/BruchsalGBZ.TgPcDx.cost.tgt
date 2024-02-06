@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">ConvertToTg.exe</Filename>
+			<Time d:type="cDeltaString">Sunday, May 28, 2023 20:14:21</Time>
+			<IntTime d:type="sUInt64">133297712612963710</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">CGE\Karlsruhe - Heidelberg\Bahnhofsschilder\Texture\BruchsalGBZ.TgPcDx.cost</Filename>
+			<Time d:type="cDeltaString">Sunday, January 21, 2024 18:48:02</Time>
+			<IntTime d:type="sUInt64">133503328829979624</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Bahnhofsschilder\Texture\BruchsalGBZ.ace</Filename>
+			<Time d:type="cDeltaString">Sunday, January 21, 2024 17:52:00</Time>
+			<IntTime d:type="sUInt64">133503295203606905</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

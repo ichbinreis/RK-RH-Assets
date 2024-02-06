@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">serz.exe</Filename>
+			<Time d:type="cDeltaString">Sunday, May 28, 2023 20:14:21</Time>
+			<IntTime d:type="sUInt64">133297712613903142</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">CGE\Karlsruhe - Heidelberg\Saalbachcenter\Saalbachcenter.bin</Filename>
+			<Time d:type="cDeltaString">Thursday, January 18, 2024 18:46:48</Time>
+			<IntTime d:type="sUInt64">133500736080182080</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Saalbachcenter\Saalbachcenter.xml</Filename>
+			<Time d:type="cDeltaString">Thursday, January 18, 2024 17:45:36</Time>
+			<IntTime d:type="sUInt64">133500699364194126</IntTime>
+		</cFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Saalbachcenter\Saalbachcenter.igs</Filename>
+			<Time d:type="cDeltaString">Thursday, January 18, 2024 18:45:49</Time>
+			<IntTime d:type="sUInt64">133500735490003223</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

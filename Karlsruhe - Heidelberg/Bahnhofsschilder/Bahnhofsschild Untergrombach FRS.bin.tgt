@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">serz.exe</Filename>
+			<Time d:type="cDeltaString">Sunday, May 28, 2023 20:14:21</Time>
+			<IntTime d:type="sUInt64">133297712613903142</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">CGE\Karlsruhe - Heidelberg\Bahnhofsschilder\Bahnhofsschild Untergrombach FRS.bin</Filename>
+			<Time d:type="cDeltaString">Sunday, January 21, 2024 19:03:16</Time>
+			<IntTime d:type="sUInt64">133503337962326423</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Bahnhofsschilder\Bahnhofsschild Untergrombach FRS.xml</Filename>
+			<Time d:type="cDeltaString">Sunday, January 21, 2024 17:56:23</Time>
+			<IntTime d:type="sUInt64">133503297831574922</IntTime>
+		</cFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Bahnhofsschilder\Bahnhofsschild Untergrombach FRS.igs</Filename>
+			<Time d:type="cDeltaString">Sunday, January 21, 2024 19:02:10</Time>
+			<IntTime d:type="sUInt64">133503337306445792</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>
