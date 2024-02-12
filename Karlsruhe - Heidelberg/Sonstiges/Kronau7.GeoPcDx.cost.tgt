@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">ConvertToGeo.exe</Filename>
+			<Time d:type="cDeltaString">Friday, November 10, 2023 11:42:53</Time>
+			<IntTime d:type="sUInt64">133440865734828853</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">CGE\Karlsruhe - Heidelberg\Sonstiges\Kronau7.GeoPcDx.cost</Filename>
+			<Time d:type="cDeltaString">Monday, February 12, 2024 09:44:06</Time>
+			<IntTime d:type="sUInt64">133522010460997158</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Sonstiges\Kronau7.igs</Filename>
+			<Time d:type="cDeltaString">Monday, February 12, 2024 09:42:13</Time>
+			<IntTime d:type="sUInt64">133522009339704526</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>
