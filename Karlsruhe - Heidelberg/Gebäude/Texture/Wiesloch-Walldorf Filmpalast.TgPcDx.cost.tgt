@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">ConvertToTg.exe</Filename>
+			<Time d:type="cDeltaString">Sunday, May 28, 2023 20:14:21</Time>
+			<IntTime d:type="sUInt64">133297712612963710</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">CGE\Karlsruhe - Heidelberg\Gebäude\Texture\Wiesloch-Walldorf Filmpalast.TgPcDx.cost</Filename>
+			<Time d:type="cDeltaString">Thursday, March 07, 2024 12:21:42</Time>
+			<IntTime d:type="sUInt64">133542841025215420</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Gebäude\Texture\Wiesloch-Walldorf Filmpalast.ace</Filename>
+			<Time d:type="cDeltaString">Thursday, March 07, 2024 11:57:50</Time>
+			<IntTime d:type="sUInt64">133542826701211423</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

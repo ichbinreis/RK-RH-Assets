@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">serz.exe</Filename>
+			<Time d:type="cDeltaString">Sunday, May 28, 2023 20:14:21</Time>
+			<IntTime d:type="sUInt64">133297712613903142</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">CGE\Karlsruhe - Heidelberg\Gebäude\Wiesloch-Walldorf Bahnhofsgeb.bin</Filename>
+			<Time d:type="cDeltaString">Thursday, March 07, 2024 03:25:07</Time>
+			<IntTime d:type="sUInt64">133542519073034894</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Gebäude\Wiesloch-Walldorf Bahnhofsgeb.xml</Filename>
+			<Time d:type="cDeltaString">Thursday, March 07, 2024 03:25:05</Time>
+			<IntTime d:type="sUInt64">133542519059064844</IntTime>
+		</cFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Gebäude\Wiesloch-Walldorf Bahnhofsgeb.igs</Filename>
+			<Time d:type="cDeltaString">Thursday, March 07, 2024 03:23:56</Time>
+			<IntTime d:type="sUInt64">133542518361101120</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>
