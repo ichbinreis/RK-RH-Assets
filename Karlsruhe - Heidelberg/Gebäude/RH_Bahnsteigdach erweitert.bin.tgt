@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">serz.exe</Filename>
+			<Time d:type="cDeltaString">Sunday, May 28, 2023 20:14:21</Time>
+			<IntTime d:type="sUInt64">133297712613903142</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">CGE\Karlsruhe - Heidelberg\Gebäude\RH_Bahnsteigdach erweitert.bin</Filename>
+			<Time d:type="cDeltaString">Tuesday, March 12, 2024 22:59:15</Time>
+			<IntTime d:type="sUInt64">133547543552400626</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Gebäude\RH_Bahnsteigdach erweitert.xml</Filename>
+			<Time d:type="cDeltaString">Tuesday, March 12, 2024 22:59:15</Time>
+			<IntTime d:type="sUInt64">133547543550894488</IntTime>
+		</cFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Gebäude\RH_Bahnsteigdach erweitert.igs</Filename>
+			<Time d:type="cDeltaString">Tuesday, March 12, 2024 22:58:32</Time>
+			<IntTime d:type="sUInt64">133547543122879299</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>
