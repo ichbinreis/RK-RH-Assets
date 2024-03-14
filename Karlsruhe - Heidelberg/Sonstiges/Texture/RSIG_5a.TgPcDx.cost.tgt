@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">ConvertToTg.exe</Filename>
+			<Time d:type="cDeltaString">Sunday, May 28, 2023 20:14:21</Time>
+			<IntTime d:type="sUInt64">133297712612963710</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">CGE\Karlsruhe - Heidelberg\Sonstiges\Texture\RSIG_5a.TgPcDx.cost</Filename>
+			<Time d:type="cDeltaString">Thursday, March 14, 2024 02:10:50</Time>
+			<IntTime d:type="sUInt64">133548522508654464</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Sonstiges\Texture\RSIG_5a.ace</Filename>
+			<Time d:type="cDeltaString">Thursday, March 14, 2024 02:08:29</Time>
+			<IntTime d:type="sUInt64">133548521090329483</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>
