@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">ConvertToGeo.exe</Filename>
+			<Time d:type="cDeltaString">Friday, November 10, 2023 11:42:53</Time>
+			<IntTime d:type="sUInt64">133440865734828853</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">CGE\Karlsruhe - Heidelberg\Sonstiges\RKDU2-1 Packstation DHL.GeoPcDx.cost</Filename>
+			<Time d:type="cDeltaString">Monday, March 18, 2024 05:10:05</Time>
+			<IntTime d:type="sUInt64">133552086053231282</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Sonstiges\RKDU2-1 Packstation DHL.igs</Filename>
+			<Time d:type="cDeltaString">Monday, March 18, 2024 05:09:08</Time>
+			<IntTime d:type="sUInt64">133552085488224341</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>
