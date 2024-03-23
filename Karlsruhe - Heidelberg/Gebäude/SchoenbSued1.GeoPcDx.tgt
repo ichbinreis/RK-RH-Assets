@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">ConvertToGeo.exe</Filename>
+			<Time d:type="cDeltaString">Sunday, May 28, 2023 20:14:17</Time>
+			<IntTime d:type="sUInt64">133297712573740529</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">CGE\Karlsruhe - Heidelberg\Gebäude\SchoenbSued1.GeoPcDx</Filename>
+			<Time d:type="cDeltaString">Thursday, March 21, 2024 22:52:45</Time>
+			<IntTime d:type="sUInt64">133555315657404619</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Gebäude\SchoenbSued1.igs</Filename>
+			<Time d:type="cDeltaString">Thursday, March 21, 2024 22:52:10</Time>
+			<IntTime d:type="sUInt64">133555315308407053</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>
