@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">ConvertToGeo.exe</Filename>
+			<Time d:type="cDeltaString">Friday, November 10, 2023 11:42:53</Time>
+			<IntTime d:type="sUInt64">133440865734828853</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">CGE\Karlsruhe - Heidelberg\Sonstiges\RHKM_1 mit Graffiti.GeoPcDx</Filename>
+			<Time d:type="cDeltaString">Thursday, April 18, 2024 04:55:39</Time>
+			<IntTime d:type="sUInt64">133578825399649630</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Sonstiges\RHKM_1 mit Graffiti.igs</Filename>
+			<Time d:type="cDeltaString">Thursday, April 18, 2024 04:54:45</Time>
+			<IntTime d:type="sUInt64">133578824859653838</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>
